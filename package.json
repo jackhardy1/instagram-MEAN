@@ -1,0 +1,49 @@
+{
+  "name": "instagram-mean",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "grunt": "latest",
+    "morgan": "~1.3.0",
+    "compression": "~1.0.11",
+    "body-parser": "~1.8.0",
+    "method-override": "~2.2.0",
+    "express-session": "~1.7.6",
+    "mongoose": "~3.8.15",
+    "passport": "^0.3.2",
+    "ejs": "~1.0.0"
+  },
+  "description": "Instagram Clone using the MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jackhardy1/instagram-MEAN.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Jack Hardy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackhardy1/instagram-MEAN/issues"
+  },
+  "homepage": "https://github.com/jackhardy1/instagram-MEAN#readme",
+  "devDependencies": {
+    "body-parser": "^1.8.4",
+    "compression": "^1.0.11",
+    "connect-flash": "^0.1.1",
+    "ejs": "^1.0.0",
+    "express-session": "^1.7.6",
+    "method-override": "^2.2.0",
+    "mongoose": "^4.5.7",
+    "morgan": "^1.3.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
